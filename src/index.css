@@ -1,0 +1,17 @@
+.list-category{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: hsl(0, 0%, 20%);
+    margin-bottom: 10px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 5px;
+    background-color: hsl(10, 20%, 58%);
+}
+.list-items{
+    font-size: 2em;
+    list-style: none;
+    color: hsl(0, 0%, 40%);
+    text-align: center;
+    margin: 0;
+}
